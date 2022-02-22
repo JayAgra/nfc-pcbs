@@ -6,7 +6,7 @@ Also try JLCPCB for cheap manufacturing <br>
   All PCBs have text "JLCJLCJLCJLC" for the specify location option. **REMOVE THIS TEXT IF YOU ARE NOT USING JLC** <br>
  <br>
 FILE NAMING: <br>
-Xcu-Yss-[model] <br>
+*X*cu-*Y*ss-*[model]* <br>
 X: Copper Layers <br>
 Y: Silk Screen Layers <br>
 [model]: Optional, indicates if it is a special model

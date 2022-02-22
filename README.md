@@ -12,6 +12,6 @@ Y: Silk Screen Layers <br>
 [model]: Optional, indicates if it is a special model <br>
 <br>
 Front of 2_1 board <br>
-![Front of 2_1 board](https://raw.githubusercontent.com/JayAgra/nfc-pcbs/main/images/2_1_front.png?raw=true)
+![Front of 2_1 board](https://raw.githubusercontent.com/JayAgra/nfc-pcbs/main/images/2_1_front.png?raw=true) <br>
 Rear of 2_1 board <br>
 ![Rear of 2_1 board](https://raw.githubusercontent.com/JayAgra/nfc-pcbs/main/images/2_1_rear.png?raw=true)

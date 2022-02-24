@@ -1,3 +1,5 @@
+##NFC PCBs
+The board itself does not have any functionality, so you will need NFC stickers. <br>
 I recommend using these NFC stickers: <br>
 https://www.aliexpress.com/item/4000917651430.html <br>
 The diameter of stickers must be 25mm to fit. <br>
